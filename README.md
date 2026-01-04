@@ -22,3 +22,6 @@ The objective of this case study is to analyze sales data to understand revenue 
 - Strengthen marketing and operations in the South region
 - Analyze the February revenue dip to identify causes
 - Prioritize Electronics category for future growth
+
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
